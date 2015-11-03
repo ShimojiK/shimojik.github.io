@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on My New Hugo Site </title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+      <title> on shimojik </title>
+    <link>http://shimojik.github.io/</link>
     <language>en-us</language>
     <author>Alexander Ivanov</author>
-    <updated>2015-11-03 15:05:21 &#43;0900 JST</updated>
-    
-    <item>
-      <title>sample</title>
-      <link>http://replace-this-with-your-hugo-site.com/sample/</link>
-      <pubDate>Tue, 03 Nov 2015 15:05:21 JST</pubDate>
-      <author>Alexander Ivanov</author>
-      <guid>http://replace-this-with-your-hugo-site.com/sample/</guid>
-      <description></description>
-    </item>
+    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
     
   </channel>
 </rss>
