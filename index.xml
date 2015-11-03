@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on shimojik </title>
+    <title>shimojik</title>
     <link>http://shimojik.github.io/</link>
-    <language>en-us</language>
-    <author>Alexander Ivanov</author>
-    <updated>2015-11-04 03:10:35 &#43;0900 JST</updated>
+    <description>Recent content on shimojik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 04 Nov 2015 03:10:35 +0900</lastBuildDate>
+    <atom:link href="http://shimojik.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugoに移行</title>
       <link>http://shimojik.github.io/2015/11/04/03/10/35/</link>
-      <pubDate>Wed, 04 Nov 2015 03:10:35 JST</pubDate>
-      <author>Alexander Ivanov</author>
+      <pubDate>Wed, 04 Nov 2015 03:10:35 +0900</pubDate>
+      
       <guid>http://shimojik.github.io/2015/11/04/03/10/35/</guid>
       <description>&lt;p&gt;Goを使ってみたいとはずっと思っていたのですが、なかなか触れないまま時間が経ってしまったので、とりあえずブログをHugoに変更して、少しだけ距離を縮めてみました。
 とりあえず、Hugoのソースコードを読むところから始めていこうかと思います。&lt;/p&gt;
