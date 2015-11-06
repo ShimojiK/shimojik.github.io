@@ -5,8 +5,19 @@
     <link>http://shimojik.github.io/</link>
     <description>Recent content on shimojik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 04 Nov 2015 03:10:35 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2015 16:04:31 +0900</lastBuildDate>
     <atom:link href="http://shimojik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flickrテスト</title>
+      <link>http://shimojik.github.io/2015-11-06-16-04-31/</link>
+      <pubDate>Fri, 06 Nov 2015 16:04:31 +0900</pubDate>
+      
+      <guid>http://shimojik.github.io/2015-11-06-16-04-31/</guid>
+      <description>&lt;p&gt;Flickrにアップした画像を貼り付けてみるテスト
+&lt;a href=&#34;https://www.flickr.com/photos/58778739@N05/19568208174&#34; title=&#34;View &#39;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#39; on Flickr.com&#34;&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#34; alt=&#34;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#34; title=&#34;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hugoに移行</title>
