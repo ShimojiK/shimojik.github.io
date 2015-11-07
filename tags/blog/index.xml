@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>shimojik</title>
-    <link>http://shimojik.github.io/</link>
-    <description>Recent content on shimojik</description>
+    <title>Blog on shimojik</title>
+    <link>http://shimojik.github.io/tags/blog/</link>
+    <description>Recent content in Blog on shimojik</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 08 Nov 2015 02:26:27 +0900</lastBuildDate>
-    <atom:link href="http://shimojik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://shimojik.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>5年後の新たなフェーズ</title>
@@ -48,41 +48,6 @@
 &lt;p&gt;インプットとアウトプットをまた楽しめるフェーズになったことを嬉しく思う今日この頃です。&lt;/p&gt;
 
 &lt;p&gt;サービスは最終調整が続いていますが、きちんとスタートラインに立てるようプラットフォーム、コンテンツともに完成度をあげ続け、目指す世界へと近づいていければと思います。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Flickrテスト</title>
-      <link>http://shimojik.github.io/2015-11-06-16-04-31/</link>
-      <pubDate>Fri, 06 Nov 2015 16:04:31 +0900</pubDate>
-      
-      <guid>http://shimojik.github.io/2015-11-06-16-04-31/</guid>
-      <description>&lt;p&gt;Flickrにアップした画像を貼り付けてみるテスト&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/58778739@N05/19568208174&#34; title=&#34;View &#39;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#39; on Flickr.com&#34;&gt;&lt;img src=&#34;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#34; alt=&#34;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#34; title=&#34;https://farm4.staticflickr.com/3736/19568208174_0d0e610f42.jpg&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugoに移行</title>
-      <link>http://shimojik.github.io/2015-11-04-03-10-35/</link>
-      <pubDate>Wed, 04 Nov 2015 03:10:35 +0900</pubDate>
-      
-      <guid>http://shimojik.github.io/2015-11-04-03-10-35/</guid>
-      <description>&lt;p&gt;Goを使ってみたいとはずっと思っていたのですが、なかなか触れないまま時間が経ってしまったので、とりあえずブログをHugoに変更して、少しだけ距離を縮めてみました。
-とりあえず、Hugoのソースコードを読むところから始めていこうかと思います。&lt;/p&gt;
-
-&lt;p&gt;ブログ的には、Bloggerとかはてなブログみたいに、最初から便利機能がついてるわけではないですし、投稿も基本的にはMacからしかできなかったりと不便な部分もありますが、全ての記事がmarkdownのプレーンなテキストで残るというのは、結構持ち物が軽い気がしてすごく気持ちがいいです。
-結局データとしては、フォルダ1個で完結してるので、だいぶ身軽さを感じます。
-タグとかカテゴリーもシンプルなテキストで入力出来るので、もともとBloggerとかも使いこなしていない僕としては、このくらいのシンプルさが逆にいい気もします。&lt;/p&gt;
-
-&lt;p&gt;iPhoneから何でブログ書こうかなぁと思ったのですが、前から気になっていたiA Writerというアプリを買ってみていまそれから入力しています。
-だいぶ快適なので、このアプリで書いてDropboxで共有して(Dropboxの共有機能はアプリについてる)、あとからMacで公開という流れになりそうです。&lt;/p&gt;
-
-&lt;p&gt;あとはGitHubでホストしてるので、容量的に画像をそのままアップ出来ないので、画像を何経由で共有するかが迷うところです。
-Bloggerのときは、お気に入りの写真はFlickrで、それ以外はBloggerに直接上げるという使い分けをしていたのですが、これを機にFlickrにまとめてしまってもいいかなと思っています。&lt;/p&gt;
-
-&lt;p&gt;Flickrでお気に入りとそれ以外の写真を気軽に分けられるなら、Flickr一本で全く問題ないので、とりあえずそこの設定を探してみることにします。&lt;/p&gt;
 </description>
     </item>
     
