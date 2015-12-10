@@ -18,15 +18,20 @@
 
 &lt;p&gt;各パーツそれぞれ一つずつ調べたので、だいぶ時間はかかりましたが、これまで全く分かっていなかったマザーボードとかCPUとかについて、結構親近感を持てるくらいにはなったのは、もともとそこまでは期待してなかっただけにかなりの収穫でした。&lt;/p&gt;
 
-&lt;p&gt;ベンチマークとってみたんですが、今まで動画編集に使ってたMacBook Pro（2014年モデルのHDD以外は一番スペック高いやつ）と比較しても、&lt;/p&gt;
+&lt;p&gt;CINEBENCH R15でベンチマークとってみたんですが、今まで動画編集に使ってたMacBook Pro（2014年モデルのHDD以外は一番スペック高いやつ）と比較しても、&lt;br /&gt;
+* MacBook Pro *&lt;br /&gt;
+OpenGL: 53.89 fps&lt;br /&gt;
+CPU 583cb&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://s3-ap-northeast-1.amazonaws.com/shimojik/20151211020444.jpg&#34; alt=&#34;MacBook Pro&#34; title=&#34;MacBook Pro&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://s3-ap-northeast-1.amazonaws.com/shimojik/20151211020445.jpg&#34; alt=&#34;自作PC&#34; title=&#34;自作PC&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自作PC *&lt;br /&gt;
+OpenGL: 121.25 fps（約2.25倍）&lt;br /&gt;
+CPU 878cb（約1.5倍）&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;と、期待以上の結果が出てくれたので、これからコンテンツ作りがますます楽しみです。&lt;/p&gt;
 
-&lt;p&gt;というわけで、せっかくなので各パーツとそれぞれの購入時の価格の一覧も一緒にまとめておきます。&lt;/p&gt;
+&lt;p&gt;というわけで、パーツ選びの後半はいろんな人が公開している組合せがめちゃくちゃ役に立ったので、各パーツとそれぞれの購入時の価格の一覧も一緒にまとめておきます。&lt;/p&gt;
 
 &lt;p&gt;電源: V1200 Platinum RSC00-AFBAG1-JP: 31,094円&lt;br /&gt;
 ケース: Fractal Design Define R5 Window FD-CA-DEF-R5-WT-W: 19,290円&lt;br /&gt;
