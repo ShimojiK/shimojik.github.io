@@ -18,16 +18,15 @@
 
 &lt;p&gt;各パーツそれぞれ一つずつ調べたので、だいぶ時間はかかりましたが、これまで全く分かっていなかったマザーボードとかCPUとかについて、結構親近感を持てるくらいにはなったのは、もともとそこまでは期待してなかっただけにかなりの収穫でした。&lt;/p&gt;
 
-&lt;p&gt;CINEBENCH R15でベンチマークとってみたんですが、今まで動画編集に使ってたMacBook Pro（2014年モデルのHDD以外は一番スペック高いやつ）と比較しても、&lt;br /&gt;
-* MacBook Pro *&lt;br /&gt;
+&lt;p&gt;CINEBENCH R15でベンチマークとってみたんですが、今まで動画編集に使ってたMacBook Pro（2014年モデルのHDD以外は一番スペック高いやつ）と比較しても、&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;MacBook Pro&lt;/em&gt;&lt;br /&gt;
 OpenGL: 53.89 fps&lt;br /&gt;
 CPU 583cb&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;自作PC *&lt;br /&gt;
+&lt;p&gt;&lt;em&gt;自作PC&lt;/em&gt;&lt;br /&gt;
 OpenGL: 121.25 fps（約2.25倍）&lt;br /&gt;
-CPU 878cb（約1.5倍）&lt;/li&gt;
-&lt;/ul&gt;
+CPU 878cb（約1.5倍）&lt;/p&gt;
 
 &lt;p&gt;と、期待以上の結果が出てくれたので、これからコンテンツ作りがますます楽しみです。&lt;/p&gt;
 
