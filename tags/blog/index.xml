@@ -5,8 +5,59 @@
     <link>http://shimojik.github.io/tags/blog/</link>
     <description>Recent content in Blog on shimojik</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 29 Nov 2015 11:33:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 11 Dec 2015 02:29:53 +0900</lastBuildDate>
     <atom:link href="http://shimojik.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>自作PC完成</title>
+      <link>http://shimojik.github.io/2015-12-11-02-29-53/</link>
+      <pubDate>Fri, 11 Dec 2015 02:29:53 +0900</pubDate>
+      
+      <guid>http://shimojik.github.io/2015-12-11-02-29-53/</guid>
+      <description>&lt;p&gt;つくることになったきっかけはいろいろあった気がするのですが、それはさておき、PCを組み立ててみました。&lt;/p&gt;
+
+&lt;p&gt;各パーツそれぞれ一つずつ調べたので、だいぶ時間はかかりましたが、これまで全く分かっていなかったマザーボードとかCPUとかについて、結構親近感を持てるくらいにはなったのは、もともとそこまでは期待してなかっただけにかなりの収穫でした。&lt;/p&gt;
+
+&lt;p&gt;ベンチマークとってみたんですが、今まで動画編集に使ってたMacBook Pro（2014年モデルのHDD以外は一番スペック高いやつ）と比較しても、&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://s3-ap-northeast-1.amazonaws.com/shimojik/20151211020444.jpg&#34; alt=&#34;MacBook Pro&#34; title=&#34;MacBook Pro&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://s3-ap-northeast-1.amazonaws.com/shimojik/20151211020445.jpg&#34; alt=&#34;自作PC&#34; title=&#34;自作PC&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;と、期待以上の結果が出てくれたので、これからコンテンツ作りがますます楽しみです。&lt;/p&gt;
+
+&lt;p&gt;というわけで、せっかくなので各パーツとそれぞれの購入時の価格の一覧も一緒にまとめておきます。&lt;/p&gt;
+
+&lt;p&gt;電源: V1200 Platinum RSC00-AFBAG1-JP: 31,094円&lt;br /&gt;
+ケース: Fractal Design Define R5 Window FD-CA-DEF-R5-WT-W: 19,290円&lt;br /&gt;
+グラフィックボード: MSI GTX 980TI GAMING 6G グラフィックスボード VD5769 GTX 980TI GAMING 6G: 86,000円&lt;br /&gt;
+SSD: SSDPEDMW400G4X1 [SSD 750 Series (400GB、1/2 Height PCIe NVMe 3.0 x4、20nm、MLC)]: 49,800円&lt;br /&gt;
+CPU cooler: R1 Ultimate: 12,520円&lt;br /&gt;
+CPU: Core i7-6700K BOX: 44,580円&lt;br /&gt;
+MB:
+MSI Z170A XPOWER GAMING TITANIUM EDITION ATXマザーボード MB3494: 42,378円&lt;br /&gt;
+Memory:
+CORSAIR DDR4 メモリモジュール VENGEANCE LPX Series 16GB×2枚キット CMK32GX4M2A2666C16 を2セット: 35,350円 x 2&lt;br /&gt;
+HDD: HGST(エイチ・ジー・エス・ティー) Deskstar NAS 3.5inch 6TB 128MBキャッシュ 7200rpm 2台セット 0S03842-2 (正規販売店パッケージ版): 72,346円&lt;br /&gt;
+OS: Windows 10 Pro: 24,000円&lt;br /&gt;
+（ディスプレイはもともと使ってた、PHILIPSの4K 40インチを使うことにしたので追加なしです。それからマウスとかヘッドホンとか一緒に買ったものもありますが、PCそのものとは少しずれるので割愛します。）&lt;/p&gt;
+
+&lt;p&gt;全部足すと452,708円。&lt;br /&gt;
+（最初計算してたより、ひと回り高くなってしまった&amp;hellip;）&lt;br /&gt;
+HDD 12TB、メモリ64GB、グラフィックボードも最後迷って上のモデルにという、動画・グラフィック周りの処理を考えて作りました。&lt;br /&gt;
+とりあえずまだ動画編集とかをやってないので、その部分はわからないのですが、HDDを12TBにしたのはかなりいいです。これまで外付けHDDを10台くらいがちゃがちゃやってたのが、これからこの1台で基本的に良いというのは、相当な気持ちの軽さを感じます。&lt;/p&gt;
+
+&lt;p&gt;ここまでしてコンテンツ作らないわけにはいなかないので、さっそくがつがつ作っていきたいと思います。&lt;/p&gt;
+
+&lt;p&gt;それにしても、使い勝手がよすぎるからなのか、自分でパーツ選んだりしたからなのか、組み立てたからなのか分かりませんが、かなり愛着と満足感と幸福感を感じます笑&lt;br /&gt;
+全部これで済ませたい気持ちもあるのですが、開発周りはWindowsはつらいので、あくまでAdobe系の専用マシンという使い方をしていく予定です。&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;組み立てた&amp;rdquo;というフレーズで思い出しましたが、パーツ選び（本読んだりも含めて）20時間くらい、組み立て〜インストールに12時間くらいかかったので、なんだかんだそこそこ時間かかってしまいました。これまでのWeb上で予算に合わせてちょちょっとカスタマイズして、ぽちってやってただけだったのと比べるとだいぶ労力使った感じはありますが、納得行くスペックのPCになったこと、パーツ関連の知識がついたこと、これからさらにグレードアップさせていけること、あと普通に買うより格段に安いことを考えると、自作PCを作ることはいろんな意味でプラスだと思います。&lt;br /&gt;
+（7万円くらいでも組もうと思ったら、普通に組めるはずなので、そこから徐々にアップグレードしていくという方法もありだと思います）&lt;/p&gt;
+
+&lt;p&gt;今後強化するとすれば、もうメモリはこれ以上増やせないので、とりあえずビデオカードとSDD・HDDあたりかなあと思っていますが、少なくとも2~3カ月はこのままでいいかなと思っています。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>携帯ぜんぶ解約</title>
