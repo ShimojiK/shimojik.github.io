@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Iphone on shimojik </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Iphone on shimojik</title>
     <link>http://shimojik.github.io/tags/iphone/</link>
-    
-    
-    
-    <updated>Mon, 04 Apr 2016 22:09:58 JST</updated>
+    <description>Recent content in Iphone on shimojik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Apr 2016 22:09:58 +0900</lastBuildDate>
+    <atom:link href="http://shimojik.github.io/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>iPhone SE</title>
       <link>http://shimojik.github.io/iphone-se/</link>
-      <pubDate>Mon, 04 Apr 2016 22:09:58 JST</pubDate>
+      <pubDate>Mon, 04 Apr 2016 22:09:58 +0900</pubDate>
       
       <guid>http://shimojik.github.io/iphone-se/</guid>
       <description>&lt;p&gt;iPhone SEを手に入れて、iPhone 6sから乗り換えました。&lt;/p&gt;

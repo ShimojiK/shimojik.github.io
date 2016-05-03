@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>ガジェット on shimojik </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>ガジェット on shimojik</title>
     <link>http://shimojik.github.io/tags/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/</link>
-    
-    
-    
-    <updated>Fri, 11 Dec 2015 02:29:53 JST</updated>
+    <description>Recent content in ガジェット on shimojik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Dec 2015 02:29:53 +0900</lastBuildDate>
+    <atom:link href="http://shimojik.github.io/tags/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>自作PC完成</title>
       <link>http://shimojik.github.io/2015-12-11-02-29-53/</link>
-      <pubDate>Fri, 11 Dec 2015 02:29:53 JST</pubDate>
+      <pubDate>Fri, 11 Dec 2015 02:29:53 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2015-12-11-02-29-53/</guid>
       <description>&lt;p&gt;つくることになったきっかけはいろいろあった気がするのですが、それはさておき、PCを組み立ててみました。&lt;/p&gt;
@@ -67,7 +66,7 @@ HDD 12TB、メモリ64GB、グラフィックボードも最後迷って上の�
     <item>
       <title>携帯ぜんぶ解約</title>
       <link>http://shimojik.github.io/2015-11-29-11-33-00/</link>
-      <pubDate>Sun, 29 Nov 2015 11:33:00 JST</pubDate>
+      <pubDate>Sun, 29 Nov 2015 11:33:00 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2015-11-29-11-33-00/</guid>
       <description>

@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Blog on shimojik </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Blog on shimojik</title>
     <link>http://shimojik.github.io/tags/blog/</link>
-    
-    
-    
-    <updated>Fri, 22 Apr 2016 11:54:39 JST</updated>
+    <description>Recent content in Blog on shimojik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 22 Apr 2016 11:54:39 +0900</lastBuildDate>
+    <atom:link href="http://shimojik.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>リスト中心からの脱却</title>
       <link>http://shimojik.github.io/2016-04-22-11-54-39/</link>
-      <pubDate>Fri, 22 Apr 2016 11:54:39 JST</pubDate>
+      <pubDate>Fri, 22 Apr 2016 11:54:39 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2016-04-22-11-54-39/</guid>
       <description>
@@ -64,7 +63,7 @@
     <item>
       <title>LoqLogの始まり</title>
       <link>http://shimojik.github.io/2016-02-05-22-06-55/</link>
-      <pubDate>Fri, 05 Feb 2016 22:06:55 JST</pubDate>
+      <pubDate>Fri, 05 Feb 2016 22:06:55 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2016-02-05-22-06-55/</guid>
       <description>&lt;p&gt;LoqLogの開発そのものが始まったのは2011年の9月。&lt;br /&gt;
@@ -105,7 +104,7 @@
     <item>
       <title>これまで作ってきた映像の振り返り</title>
       <link>http://shimojik.github.io/2016-01-02-18-45-46/</link>
-      <pubDate>Sat, 02 Jan 2016 12:55:31 JST</pubDate>
+      <pubDate>Sat, 02 Jan 2016 12:55:31 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2016-01-02-18-45-46/</guid>
       <description>&lt;p&gt;2016年も早くも2日です。&lt;br /&gt;
@@ -230,7 +229,7 @@
     <item>
       <title>つくりこみ</title>
       <link>http://shimojik.github.io/2015-12-29-13-52-32/</link>
-      <pubDate>Tue, 29 Dec 2015 13:52:32 JST</pubDate>
+      <pubDate>Tue, 29 Dec 2015 13:52:32 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2015-12-29-13-52-32/</guid>
       <description>&lt;p&gt;年末に向けて日頃よりいろんな方に会って話をする機会が増えている中で、2016年にどういう働き方をしていくのかというのを考えるきっかけもたくさんありました。&lt;/p&gt;
@@ -317,7 +316,7 @@
     <item>
       <title>自作PC完成</title>
       <link>http://shimojik.github.io/2015-12-11-02-29-53/</link>
-      <pubDate>Fri, 11 Dec 2015 02:29:53 JST</pubDate>
+      <pubDate>Fri, 11 Dec 2015 02:29:53 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2015-12-11-02-29-53/</guid>
       <description>&lt;p&gt;つくることになったきっかけはいろいろあった気がするのですが、それはさておき、PCを組み立ててみました。&lt;/p&gt;
@@ -372,7 +371,7 @@ HDD 12TB、メモリ64GB、グラフィックボードも最後迷って上の�
     <item>
       <title>携帯ぜんぶ解約</title>
       <link>http://shimojik.github.io/2015-11-29-11-33-00/</link>
-      <pubDate>Sun, 29 Nov 2015 11:33:00 JST</pubDate>
+      <pubDate>Sun, 29 Nov 2015 11:33:00 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2015-11-29-11-33-00/</guid>
       <description>
@@ -452,7 +451,7 @@ SIMフリー端末以外は全て売るつもりですが、それでどれく�
     <item>
       <title>5年経って新たなフェーズ</title>
       <link>http://shimojik.github.io/2015-11-08-02-26-27/</link>
-      <pubDate>Sun, 08 Nov 2015 02:26:27 JST</pubDate>
+      <pubDate>Sun, 08 Nov 2015 02:26:27 +0900</pubDate>
       
       <guid>http://shimojik.github.io/2015-11-08-02-26-27/</guid>
       <description>&lt;p&gt;LoqLogという学習サービスの原型を作ったのは、もう5年も前のことです。そのときは、塾間の映像授業の共有とSkypeによる個別指導で学習をサポートするツールとして、主に塾向け教材として開発と販売をしていました。東京に初めて行き、夜行バスで何度も往復しながら、投資家の方々へのプレゼンも繰り返していました。&lt;br /&gt;
