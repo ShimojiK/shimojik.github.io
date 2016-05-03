@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Loqlog on shimojik</title>
+      <title>Loqlog on shimojik </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://shimojik.github.io/tags/loqlog/</link>
-    <description>Recent content in Loqlog on shimojik</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Apr 2016 11:54:39 +0900</lastBuildDate>
-    <atom:link href="http://shimojik.github.io/tags/loqlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <updated>Fri, 22 Apr 2016 11:54:39 JST</updated>
     
     <item>
       <title>リスト中心からの脱却</title>
       <link>http://shimojik.github.io/2016-04-22-11-54-39/</link>
-      <pubDate>Fri, 22 Apr 2016 11:54:39 +0900</pubDate>
+      <pubDate>Fri, 22 Apr 2016 11:54:39 JST</pubDate>
       
       <guid>http://shimojik.github.io/2016-04-22-11-54-39/</guid>
       <description>
@@ -63,7 +64,7 @@
     <item>
       <title>LoqLogの始まり</title>
       <link>http://shimojik.github.io/2016-02-05-22-06-55/</link>
-      <pubDate>Fri, 05 Feb 2016 22:06:55 +0900</pubDate>
+      <pubDate>Fri, 05 Feb 2016 22:06:55 JST</pubDate>
       
       <guid>http://shimojik.github.io/2016-02-05-22-06-55/</guid>
       <description>&lt;p&gt;LoqLogの開発そのものが始まったのは2011年の9月。&lt;br /&gt;
@@ -104,7 +105,7 @@
     <item>
       <title>5年経って新たなフェーズ</title>
       <link>http://shimojik.github.io/2015-11-08-02-26-27/</link>
-      <pubDate>Sun, 08 Nov 2015 02:26:27 +0900</pubDate>
+      <pubDate>Sun, 08 Nov 2015 02:26:27 JST</pubDate>
       
       <guid>http://shimojik.github.io/2015-11-08-02-26-27/</guid>
       <description>&lt;p&gt;LoqLogという学習サービスの原型を作ったのは、もう5年も前のことです。そのときは、塾間の映像授業の共有とSkypeによる個別指導で学習をサポートするツールとして、主に塾向け教材として開発と販売をしていました。東京に初めて行き、夜行バスで何度も往復しながら、投資家の方々へのプレゼンも繰り返していました。&lt;br /&gt;

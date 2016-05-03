@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flickr on shimojik</title>
+      <title>Flickr on shimojik </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://shimojik.github.io/tags/flickr/</link>
-    <description>Recent content in Flickr on shimojik</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Nov 2015 16:04:31 +0900</lastBuildDate>
-    <atom:link href="http://shimojik.github.io/tags/flickr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <updated>Fri, 06 Nov 2015 16:04:31 JST</updated>
     
     <item>
       <title>Flickrテスト</title>
       <link>http://shimojik.github.io/2015-11-06-16-04-31/</link>
-      <pubDate>Fri, 06 Nov 2015 16:04:31 +0900</pubDate>
+      <pubDate>Fri, 06 Nov 2015 16:04:31 JST</pubDate>
       
       <guid>http://shimojik.github.io/2015-11-06-16-04-31/</guid>
       <description>&lt;p&gt;Flickrにアップした画像を貼り付けてみるテスト&lt;/p&gt;
